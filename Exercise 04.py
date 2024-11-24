@@ -35,5 +35,4 @@ for nation, city in country.items():
     else:
         print(f"Wrong! The capital of {country} is {city}.")
         print()                                                        
-
 print(f"\nScore: {score}/{total}")                                    
