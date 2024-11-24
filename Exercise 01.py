@@ -1,4 +1,5 @@
 #Exercise 01: Coding is cool
+
 #using string concatenation to combine the variables and print the phrase
 
 Word1="Coding "
