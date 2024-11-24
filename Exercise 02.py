@@ -1,4 +1,6 @@
 #Exercise 02: Simple sums
+
+#steps
 #1.Declare a variable and initialize it with the integer value 8.
 #2.Declare a second variable and initialize it with the integer value 10.
 #3.Declare a third variable that stores the sum of first two numbers.
